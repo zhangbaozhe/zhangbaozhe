@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 I'am Baozhe, currently an undergraduate student in The Chinese University of Hong Kong, Shenzhen. My major is computer engineering. I am interested in robotics and machine learning. Recently, 
 - 🔭 I’m currently working on algorithms on quadrotor and machine-learning embedded controller.
 - 🌱 I’m currently learning basic controll theory, database systems, basic machine learning, and ROS. 
+I am also interested in analog photography. Check my website to see some of my pictures. 
 
 📫 How to reach me: 
 - My school email: baozhezhang@link.cuhk.edu.cn
