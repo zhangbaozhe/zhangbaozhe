@@ -19,7 +19,7 @@ I'am Baozhe, currently an undergraduate student at The Chinese University of Hon
 - 🔭 I’m working on algorithms on quadrotor and machine-learning embedded controller.
 - 🌱 I’m working as a RA at Huzhou Institute of ZJU.  
 
-I am also interested in analog photography. Check my [website](zhangbaozhe.github.io) to see some of my pictures. 
+I am also interested in analog photography. Check my [website](https://zhangbaozhe.github.io) to see some of my pictures. 
 
 📫 How to reach me: 
 - My school email: baozhezhang@link.cuhk.edu.cn
