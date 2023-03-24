@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 I'am Baozhe, currently an undergraduate student at The Chinese University of Hong Kong, Shenzhen. My major is computer engineering. I am interested in robotics and machine learning. Recently, 
-- 🔭 I’m working on algorithms on quadrotor and machine-learning embedded controller.
+- 🔭 I’m working on algorithms on quadrotor and machine-learning embedded controller. Recently, I am working on a MPC controller for drones in non-inertial frames.
 - 🌱 I’m working as a RA at FAST Lab, Huzhou Institute of ZJU.  
 
 I am also interested in analog photography. Check my [website](https://zhangbaozhe.github.io) to see some of my pictures. 
