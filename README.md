@@ -23,7 +23,7 @@ I am also interested in analog photography. Check my [website](https://zhangbaoz
 
 📫 How to reach me: 
 - My school email: baozhezhang@link.cuhk.edu.cn
-- My personal email: zhang.baozhe2000@gmail.com / 907711755@qq.com / baozhezhang2000@163.com (mainly for jobs)
+- My personal email: zhang.baozhe2000@gmail.com
 - WeChat: baozhezhang2000
 
 
