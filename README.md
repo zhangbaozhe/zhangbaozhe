@@ -15,11 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Baozhe, currently an undergraduate student at The Chinese University of Hong Kong, Shenzhen. My major is computer engineering. I am interested in developing highly efficient real-time robot algorithms (using C++) that can run with limited resources (e.g., edge computers on robots). Multi-robot systems, motion planning, SLAM, optimal control, and machine learning with robots are my interested fields.
+I am Baozhe, currently an undergraduate student at The Chinese University of Hong Kong, Shenzhen. My major is computer engineering. I am interested in developing highly efficient real-time robot algorithms (using C++) that can run with limited resources (e.g., edge computers on robots). I am interested in multi-robot systems, motion planning, SLAM, optimal control, and machine learning with robots.
 
 🤔 Recent news: 
-- 🔭 I'm working on an MPC controller for drones in non-inertial frames. Please check [CoNi-MPC](https://fast-fire.github.io/CoNi-MPC/) for more information.
-- 🌱 I finished my RA internship at Fast Lab, ZJU (2022/06 - 2023/08). 
+- 🔭 The source code of CoNi-MPC is released! Please check [CoNi-MPC](https://fast-fire.github.io/CoNi-MPC/) for more information.
+- 🌱 I finished my RA internship at Fast Lab, ZJU (2022/06 - 2023/08).
+-  ⚡ I am learning reinforcement learning. 
 
 
 📫 How to reach me: 
