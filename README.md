@@ -20,7 +20,8 @@ I am Baozhe, currently an undergraduate student at The Chinese University of Hon
 🤔 Recent news: 
 - 🔭 The source code of CoNi-MPC is released! Please check [CoNi-MPC](https://fast-fire.github.io/CoNi-MPC/) for more information.
 - 🌱 I finished my RA internship at Fast Lab, ZJU (2022/06 - 2023/08).
--  ⚡ I am learning reinforcement learning. 
+-  ⚡ I am learning reinforcement learning.
+-  ⚡ I am learning computer graphics. 
 
 
 📫 How to reach me: 
