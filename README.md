@@ -27,6 +27,5 @@ I am Baozhe, currently an undergraduate student at The Chinese University of Hon
 📫 How to reach me: 
 - My school email: baozhezhang@link.cuhk.edu.cn
 - My personal email: zhang.baozhe2000@gmail.com
-- WeChat: luckkyyy999
 
 
