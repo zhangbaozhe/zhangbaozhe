@@ -25,8 +25,6 @@ I am now a research assistant at [FAST Lab](http://zju-fast.com/). I received my
 -  ⚡ I am learning computer graphics. 
 -->
 
-📫 How to reach me: 
-- My school email: baozhezhang@link.cuhk.edu.cn
-- My personal email: zhang.baozhe2000@gmail.com
+📫 How to reach me: zhang.baozhe2000@gmail.com
 
 
