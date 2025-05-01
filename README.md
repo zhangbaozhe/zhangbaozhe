@@ -24,6 +24,6 @@ I am now an incoming PhD student at [The Chinese University of Hong Kong, Shenzh
 -  ⚡ I am learning computer graphics. 
 -->
 
-📫 How to reach me: zhang.baozhe2000@gmail.com
+📫 How to reach me: email@baozhezhang.com
 
 
